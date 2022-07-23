@@ -5,3 +5,5 @@ Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 ## Alt Bilgi
 fdafhvuf sfvakuhvfgsv
 vsfhdfhvdsva hvfve
+
+[lorem ipsum](https://google.com)
