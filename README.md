@@ -6,4 +6,3 @@ Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 fdafhvuf sfvakuhvfgsv
 vsfhdfhvdsva hvfve
 
-[lorem ipsum](https://google.com)
